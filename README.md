@@ -10,14 +10,16 @@ Ensure you have Python >= 3.10 installed on your system. Then, install the requi
 
 **Requirements**
 Install PyTorch and other necessary libraries:
-
+```bash
 pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
+```
 
 **Pre-trained Weights**
 Download the SUMGraph model from the provided cloud link and move it to the specified directory:
-
+```bash
 Download SUMGraph model: sumgraph_model.pth
 Change the loading filepath in XXX
+```
 
 
