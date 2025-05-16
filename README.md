@@ -35,7 +35,7 @@ python inference.py
 ## Training
 Run the training process:
 
-1. **Pretrained Encoder Weights**: Download from [VMamba GitHub]
+1. **Pretrained Encoder Weights**: Download from [SUMGraph](https://cloud.dfki.de/owncloud/index.php/s/kbtyPb7g2YBnAfN)
 
 ```bash
 python train.py
