@@ -40,6 +40,13 @@ Run the training process:
 ```bash
 python train.py
 ```
+## Validation
+Run the validation process:
 
+1. **Pretrained Encoder Weights**:
+
+```bash
+python validation.py
+```
 
 
